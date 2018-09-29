@@ -1,0 +1,55 @@
+Variable,Importance,Map
+X41,0.026185231,teachers-Encouraged others in my life to learn about coding/tech
+X34,0.025317909,kids-I want to take coding/tech at college/university
+X21,0.02456805,adult-Encouraged others in my life to learn about coding/tech
+X35,0.024263634,kids-I want to work in coding/tech when I grow up. 
+X32,0.023928932,kids-Expressed intention to work in the coding/tech sector
+X38,0.023517107,"teachers-Applied for a job opportunity involving coding/tech (promotion, new role, etc.)"
+X44,0.023359827,teachers-Found a new job opportunity through the CLC job board
+X22,0.023173063,adult-Use coding/tech in my personal life
+X31,0.022905268,kids-Expressed intention to pursue coding/tech at the post-secondary level
+X28,0.022776555,"adult-Apply for a job opportunity involving coding/tech (promotion, new role, etc.) "
+X20,0.022707497,adult-Find new job opportunity through a new CLC connection
+X47,0.022567321,teachers-Likely to consider making a donation to CLC. 
+X25,0.022509585,adult-Use coding/tech in my personal life
+X19,0.022226858,adult-Find new job opportunity through the CLC job board
+X45,0.022207899,teachers-Found a new job opportunity through a new CLC connection. 
+X27,0.022139729,adult-Take on new coding/tech tasks at work
+PLE,0.021866199,Prior Learning Experience
+X33,0.021842061,kids-More confident when I code or use tech
+X24,0.021742384,adult-More confident in my use of coding/tech
+X23,0.021699384,adult-Engage in additional coding/tech learning
+X26,0.021219376,adult-Updated resume/LinkedIn to include coding/tech skills
+X40,0.021160155,teachers-Use(d) coding/tech in my personal life
+X43,0.021033802,teachers-Engaged in additional coding/tech learning
+X37,0.021000381,teachers-Use(d) tech/coding to teach in my classroom
+X30,0.02077259,kids-Wanted to know more about coding/tech
+X39,0.020565382,teachers-Updated my resume/LinkedIn to include coding/tech skills
+X42,0.020193603,teachers-Were more confident in my use of coding/tech
+X10,0.018915445,Code Mobile Visit: Community Event 
+X13,0.018724135,Ladies Learning Code: Digital Skills for Beginners 
+X17,0.018257679,Teachers Learning Code: TeacherCon 
+X1,0.017794109,Ladies Learning Code Workshop 
+X4,0.017362922,Teachers Learning Code Workshop 
+X6,0.017352148,Teens Learning Code: Hackathon 
+X9,0.017341997,Code Mobile Visit: School 9-12 
+X16,0.017159119,Girls Learning Code: Girls Learning Code Day 
+X8,0.016875205,Code Mobile Visit: School K-8 
+X18,0.016327996,Canada Learning Code Day: Workshop 
+X15,0.016323978,Ladies Learning Code: National Learn to Code Day 
+X11,0.016277212,Kids Learning Code: Summer Camp 
+X2,0.015696313,Kids Learning Code Workshop 
+X12,0.015061388,Kids Learning Code: March Break Camp 
+X5,0.014653568,Teens Learning Code Workshop 
+X7,0.013541546,Teens Learning Code: Meetup 
+X14,0.012553466,Teens Learning Code: Teen Ambassador 
+X3,0.01240439,Girls Learning Code Workshop 
+learner_type_Adult,0.012227951,
+learner_type_Child,0.011932678,
+target_population_indigenous,0.011874747,
+target_population_Rural,0.011346233,
+target_population_woman,0.011142962,
+learner_type_Teacher,0.010794768,
+learner_type_Youth,0.010783094,
+target_population_visible minority,0.010383509,
+target_population_Disability,0.00944166,
