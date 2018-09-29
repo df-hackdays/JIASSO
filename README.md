@@ -1,5 +1,10 @@
 # JIASSO
 
+Team: 
+Ashish Gupta
+Jimit Bavishi
+Soheil Tavasoti
+
 Helping CLC to bridge the gaps and improve learning experience
 
 Problem Statement:
@@ -19,3 +24,4 @@ Problem Scope 3: Promoting ease of use among childrens, adults and teachers
 <br>
 Proposed Solution: Predicting adults/children/teachers who are likely to recommend CLC to freind, colleage, parent, etc
                    Predicting the teachers who are likely to make donations to CLC
+
