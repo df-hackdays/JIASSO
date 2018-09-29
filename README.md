@@ -14,7 +14,7 @@ Helping CLC to bridge the gaps and improve learning experience
 
 <b>Problem Scope 1:</b> Managing learners with different experience level
 <br>
-Proposed Solution: Predicitng adults/children that expressed intentions to pursue coding at post secondary level or work in the technical sector versus those who want to work or study coding/technology
+Proposed Solution: Predicting adults/children that expressed intentions to pursue coding at post-secondary level or work in the technical sector versus those who want to work or study coding/technology
 
 <b>Problem Scope 2:</b> Learners who struggle with the pace or are not comfortable publicly voicing it
 <br>
@@ -22,6 +22,6 @@ Proposed Solution: Predicting adults/children who want to take additional coding
 
 <b>Problem Scope 3:</b> Promoting ease of use among childrens, adults and teachers
 <br>
-Proposed Solution: Predicting adults/children/teachers who are likely to recommend CLC to freind, colleage, parent, etc
+Proposed Solution: Predicting adults/children/teachers who are likely to recommend CLC to friend, colleague, parent, etc
                    Predicting the teachers who are likely to make donations to CLC
 
